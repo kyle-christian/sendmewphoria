@@ -1,3 +1,5 @@
+var div = document.querySelector('.fade');
+
 document.querySelector('#submit').addEventListener('click', getCat);
 
 function getCat() {

@@ -361,7 +361,6 @@ body {
   align-items: center;
   justify-content: center;
   font-family: 'IBM Plex Sans', sans-serif;
-
 }
 
 img {
@@ -370,12 +369,36 @@ img {
 }
 
 button {
-  margin: 10px 0 0 0;
-  padding: 3px;
-  width: 150px;
-  font-weight: 300;
+  margin: 20px 0 0 0;
+  padding: 10px;
+  width: 180px;
+  font-weight: 400;
+  color: white;
+  background: rgba(0, 0, 0, 0.8);
+  border: none;
+  border-radius: 10px;
+}
+
+button:hover {
+  cursor: pointer;
+  background: black;
+  transition: 0.2s ease-in;
 }
 
 div {
   display: none;
+}
+
+@keyframes fadeInAnimation {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation: fadeInAnimation 0.7s;
+  animation-timing-function: ease-in;
 }
