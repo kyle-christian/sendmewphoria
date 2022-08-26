@@ -347,3 +347,35 @@ template {
 [hidden] {
   display: none;
 }
+
+
+/* LAYOUT
+   ========================================================================== */
+
+body {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'IBM Plex Sans', sans-serif;
+
+}
+
+img {
+  height: 500px;
+  border-radius: 20px;
+}
+
+button {
+  margin: 10px 0 0 0;
+  padding: 3px;
+  width: 150px;
+  font-weight: 300;
+}
+
+div {
+  display: none;
+}
