@@ -1,10 +1,7 @@
-# sendmewphoria
-SendMewphoria is a web application that helps brighten any cat lover's day at a click of a button!
+# Send Mewphoria!
+Send Mewphoria! is a web application that helps brighten any cat lover's day at a click of a button! 
 
-# My Awesome Project
-Write a short sentence or two about this project and what it does. Be sure to include a link and a screenshot (we're front end devs so we can actually see our work!).
-
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://kyle-christian.github.io/sendmewphoria/
 
 ![alt tag](http://placecorgi.com/1200/650)
 
