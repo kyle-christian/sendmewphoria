@@ -3,7 +3,7 @@ Send Mewphoria! is a web application that helps brighten any cat lover's day at 
 
 **Link to project:** https://kyle-christian.github.io/sendmewphoria/
 
-![alt tag](https://imgur.com/a/lddmt7V.gif)
+![alt tag](assets/sendmewphoria.gif)
 
 ## How It's Made:
 
