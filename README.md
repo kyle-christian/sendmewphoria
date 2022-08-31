@@ -3,7 +3,7 @@ Send Mewphoria! is a web application that helps brighten any cat lover's day at 
 
 **Link to project:** https://kyle-christian.github.io/sendmewphoria/
 
-![alt tag](http://placecorgi.com/1200/650)
+![alt tag](https://imgur.com/a/lddmt7V)
 
 ## How It's Made:
 
